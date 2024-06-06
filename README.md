@@ -6,3 +6,5 @@ python3.11>
 
 ### Running locally
 python main.py
+
+BookBot is my first project!
